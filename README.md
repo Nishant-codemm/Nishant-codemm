@@ -17,16 +17,12 @@ I'm a software engineering student passionate about building reliable, scalable 
 - 🌱 **Always Learning:** Exploring advanced backend architectures and JavaScript ecosystems.
 
 ---
-
-### 🏆 Competitive Programming
-
-<p align="left">
-  <a href="https://leetcode.com/u/hamingword/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://codeforces.com/profile/nishanthamingword"><img src="https://img.shields.io/badge/Codeforces-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<h3 align="center">🏆 CP Profiles</h3>
+<p align="center">
   <a href="https://www.codechef.com/users/nishant6203"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codeforces.com/profile/nishanthamingword"><img src="https://img.shields.io/badge/Codeforces-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://leetcode.com/u/hamingword/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
-
----
 
 ### 💻 Skills & Technologies
 
