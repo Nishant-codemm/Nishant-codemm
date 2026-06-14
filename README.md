@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nishant-codemm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="[AAPKA_LINKEDIN_URL_YAHAN_DAALEIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nishant-kumar-a4b374260"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 I'm a software engineering student passionate about building reliable, scalable systems and solving complex algorithmic challenges. I thrive on translating business logic into efficient code, whether it's optimizing a backend database query or cracking a tough DSA problem. 
 
-- 🔭 **Currently Building:** A community connectivity platform named **Raah Setu** and a comprehensive **Habit Tracker**.
+- 🔭 **Currently Building:** An **AI SEO Rank Analyzer** and a full-stack **Expense Tracker**.
 - 💡 **Focus Areas:** Full-Stack Web Development (MERN), Data Structures & Algorithms, and DBMS / Relational Algebra.
 - 🏆 **Problem Solving:** Actively coding in **C++** on platforms like LeetCode, Codeforces, and CodeChef.
 - 🌱 **Always Learning:** Exploring advanced backend architectures and JavaScript ecosystems.
