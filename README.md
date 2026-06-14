@@ -59,3 +59,10 @@ I'm a software engineering student passionate about building reliable, scalable 
 
 <br>
 <p align="center"><i>"Every bug is a lesson. Every fix is a contribution."</i></p>
+
+<h3 align="center">📜 Latest GitHub Activity</h3>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant-codemm&bg_color=0D1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true&theme=react-dark" alt="Activity Graph" />
+  </a>
+</p>
