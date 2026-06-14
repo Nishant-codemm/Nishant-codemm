@@ -1,27 +1,62 @@
-# Hi there, I'm Nishant! 👋
+<h1 align="center">Hi, I'm Nishant Kumar 👋</h1>
+<h3 align="center">BTech CSE Student | MERN Stack Developer | Problem Solver</h3>
 
-I'm a BTech CSE student and a passionate Web & Software Developer. I love solving algorithmic problems and building full-stack applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nishant-codemm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="[AAPKA_LINKEDIN_URL_YAHAN_DAALEIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building community connectivity platforms and robust web apps using the **MERN Stack**.
-- 💡 I enjoy tackling **Data Structures and Algorithms** problems in **C++** on platforms like LeetCode and Codeforces.
-- 🎓 Constantly learning new backend architectures and preparing for upcoming campus drives.
-- 🛠️ My go-to tools: **VS Code** & **MongoDB Atlas**.
-- 📫 How to reach me: [Aapka LinkedIn Profile Link yahan daalein]
 
-### 🛠️ Tech Stack
+I'm a software engineering student passionate about building reliable, scalable systems and solving complex algorithmic challenges. I thrive on translating business logic into efficient code, whether it's optimizing a backend database query or cracking a tough DSA problem. 
+
+- 🔭 **Currently Building:** A community connectivity platform named **Raah Setu** and a comprehensive **Habit Tracker**.
+- 💡 **Focus Areas:** Full-Stack Web Development (MERN), Data Structures & Algorithms, and DBMS / Relational Algebra.
+- 🏆 **Problem Solving:** Actively coding in **C++** on platforms like LeetCode, Codeforces, and CodeChef.
+- 🌱 **Always Learning:** Exploring advanced backend architectures and JavaScript ecosystems.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### 📊 GitHub Stats
+**Backend & Web**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant-codemm&show_icons=true&theme=radical" alt="Nishant's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-codemm&theme=radical" alt="Nishant's GitHub Streak" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
 </p>
+
+**Data & Storage**
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+**Tools & Environment**
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant-codemm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nishant's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant-codemm&theme=tokyonight&hide_border=true&background=0D1117" alt="Nishant's GitHub Streak" />
+</p>
+
+---
+<p align="center"><i>"Consistency is the key to mastering code."</i></p>
